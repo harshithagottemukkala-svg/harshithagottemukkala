@@ -7,10 +7,15 @@
 ---
 📂 Featured Project
 🔹 3D Bin Packing System Implementation & Analysis(https://github.com/your-username/your-project-repo)
+
+---
+
 Developed a 3D bin packing system with algorithm implementation, performance analysis, and interactive 3D visualization tools using     Python.
 
 ---
 Tech Stack: Python,Matplotlib, NumPy 
+
+---
 Key Features:
 -Space-optimizing packing algorithm
 -Interactive 3D solution visualizer
